@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Electrical and Electronics Engineering
 - 📫 How to reach me ra0217@naver.com
 - 😄 Pronouns: He/Him
-
 <!---
 Kevin-H-Kim/Kevin-H-Kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
